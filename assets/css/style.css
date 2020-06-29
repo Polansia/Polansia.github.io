@@ -1,0 +1,159 @@
+.header {
+    padding: 20px;
+    font-family:  Arial, sans-serif;
+    background-color: #6e1010;
+    color: #ffffff;
+    
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 40px;
+}
+
+.header nav {
+    padding-top: 9px;
+    margin-right: 20px;
+    float: right;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+}
+
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.header nav ul li a{
+    color: #ffffff;
+    outline-color: black;
+    outline-width: 1px;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
+.sub{
+    font-family:  Arial, sans-serif;
+    color: #ffffff;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #6e1010;
+    font-size: 30px;
+    text-align: center;
+    border:3px solid black;
+    border-radius: 20px;
+}
+
+
+.padding{
+
+    padding-top: 90px;
+
+}
+
+
+
+.container {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #6e1010;
+    border:3px solid black;
+    border-radius: 20px;
+    overflow: auto;
+    
+
+    margin-top: 10px;
+   
+    
+  }
+
+#division {
+    padding: 20px;
+    margin-top: 10px;
+    min-width: 100%;
+    border-radius: 20px;
+    background: white;
+    font-family:  Arial, sans-serif;
+   
+  }
+.image{
+
+    max-width:  100%;
+    max-height: 100%;
+}
+.footer{
+    
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.input{
+
+    padding: 10px;
+    margin-top: 10px;
+    width: 15%;
+    
+}
+
+.message{
+    padding-top:10px;
+    margin-top: 10px;
+    
+}
+
+
+.port-image{
+width: 100%;
+height: 95%;
+
+}
+
+.port-text{
+
+    font-family:  Arial, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    padding-left: 40%;
+    
+    color: rgb(255, 238, 5);
+
+}
+
+#contactForm{
+    margin-top: 5%;
+    text-align: center
+}
+
+.contactHeader{
+
+    margin-top: 5%;
+    text-align: center;
+}
+.articleText{
+
+    font-size: 30px;
+
+}
+.listText{
+
+    
+
+}
+.listContainer{
+    
+    border-radius: 20px;
+    background: white;
+    padding: 10px;
+    font-size: 30px;
+    overflow: auto;
+}
+.imageText{
+
+margin-bottom: 10px;
+
+}
