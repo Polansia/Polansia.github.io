@@ -1,0 +1,15 @@
+footer {
+    position: fixed; 
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    font-size:15px;
+    text-align: center;
+    line-height:100px;
+    
+}
+.footerText{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
