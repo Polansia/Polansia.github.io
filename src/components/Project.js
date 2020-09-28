@@ -18,7 +18,7 @@ const Project = ({ project, ...props }) => {
 
                 <div className="row justify-content-around">
                     <a href={project.demo} target="_blank" className=" col-12  btn btn-primary mb-1 ">
-                        Live Preview
+                        Deployed Application
                     </a>
                     <a href={project.github} target="_blank" className="col-12 btn btn-primary btn-success">
                         Github
